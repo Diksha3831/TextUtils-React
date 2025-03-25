@@ -19,3 +19,6 @@
 *.log
 node_modules/
 *.env
+*.log
+node_modules/
+*.env
